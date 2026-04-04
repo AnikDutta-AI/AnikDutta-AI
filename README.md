@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **AnikDutta-cloud/AnikDutta-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 🌐 Building web applications using modern technologies
 🤝 I’m open to collaborating on AI/ML and Web Development projects
 🌱 Continuously improving my coding and problem-solving skills.
--->
+
